@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PhAuth</string>
+    <string name="must_be_6digits">must be 6digits!</string>
+    <string name="ph_auth">PH_AUTH</string>
+    <string name="Submit">Submit</string>
+    <string name="getotp">Get OTP</string>
+    <string name="ph_hint">only number without +95</string>
+    <string name="error_msg">Something Wrong</string>
+
+</resources>
